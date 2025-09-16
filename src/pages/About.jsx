@@ -293,8 +293,8 @@ const About = () => {
 
         <div className="p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-center">
           <div className="text-center sm:text-left">
-            <p>Contact: (123) 456-7890</p>
-            <p>Email: contact@example.com</p>
+            <p>Contact: +918303904036</p>
+            <p>Email: snehildwivedi03@gmail.com</p>
           </div>
         </div>
 
