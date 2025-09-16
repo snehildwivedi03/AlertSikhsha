@@ -290,14 +290,12 @@ const Home = () => {
     <>
       <div className="flex flex-col gap-6 p-20 px-4 max-w-6xl mx-auto">
         <h1 className="text-green-700 font-bold text-3xl lg:text-6xl">
-          Discover Nexus for your next{" "}
-          <span className="text-green-500">critical</span>
-          <br />
+          Discover Alert Sikhsha for your next <br />
           disaster management solution
         </h1>
         <div className="text-gray-600 text-xs sm:text-sm">
-          Nexus, your reliable partner in disaster management, where every
-          solution is tailored to protect and serve.
+          Alert Sikhsha, your reliable partner in disaster management, where
+          every solution is tailored to protect and serve.
           <br />
           Explore tools that safeguard, strategies that empower, and the support
           you need in times of crisis.
@@ -512,8 +510,8 @@ const Home = () => {
 
         <div className="p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-center">
           <div className="text-center sm:text-left">
-            <p>Contact: (123) 456-7890</p>
-            <p>Email: contact@example.com</p>
+            <p>Contact: +818303904036</p>
+            <p>Email: snehildwivedi03@gmail.com</p>
           </div>
         </div>
 
